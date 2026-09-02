@@ -48,9 +48,11 @@ React.js • Next.js • React Native • Tailwind CSS • CSS
 
 Node.js • Express.js • FastAPI
 
-**Database & AI**
+**Database**
+MongoDB • Supabase • Firebase • PostgreSQL
 
-MongoDB • Supabase • Firebase • PostgreSQL • ChromaDB • RAG • LLMs 
+**AI**
+LangChain • Pandas • NumPy • LangGraph • ChromaDB • RAG • LLMs • Prompt Engineering
 
 **Tools**
 
