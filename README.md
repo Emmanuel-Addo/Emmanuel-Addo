@@ -14,25 +14,25 @@ My interests include **full-stack development, AI engineering, backend developme
 
 I'm constantly learning, experimenting with new technologies, and working on projects that challenge me to become a better engineer.
 
-## What I'm Building
+<!-- ## What I'm Building
 
-### 🎙️ VoicePrep
+### VoicePrep
 
 An AI-powered interview practice platform that helps users prepare for job interviews through realistic interview simulations and feedback.
 
 **Tech:** React.js • Node.js • Express.js • MongoDB • Vapi AI
 
-### 🚛 FleetPulse
+### FleetPulse
 
 A modern fleet telemetry and operations dashboard designed to help monitor vehicles, drivers, maintenance, and analytics.
 
 **Tech:** React • TypeScript • Next.js
 
-### 🤖 Mortgage RAG Chatbot
+### Mortgage RAG Chatbot
 
 An AI-powered application that allows users to interact with mortgage-related documents using Retrieval-Augmented Generation (RAG).
 
-**Tech:** Next.js • FastAPI • Python • ChromaDB • LLMs
+**Tech:** Next.js • FastAPI • Python • ChromaDB • LLMs -->
 
 ## My Tech Stack
 
@@ -42,7 +42,7 @@ JavaScript • TypeScript • Python
 
 **Frontend**
 
-React.js • Next.js • React Native • Tailwind CSS
+React.js • Next.js • React Native • Tailwind CSS • CSS
 
 **Backend**
 
@@ -50,11 +50,11 @@ Node.js • Express.js • FastAPI
 
 **Database & AI**
 
-MongoDB • ChromaDB • RAG • LLMs
+MongoDB • Supabase • Firebase • PostgreSQL • ChromaDB • RAG • LLMs 
 
 **Tools**
 
-Git • GitHub • Docker • VS Code
+Git • GitHub • Github Action • Docker • VS Code
 
 ## Currently Learning
 
@@ -67,10 +67,10 @@ Git • GitHub • Docker • VS Code
 
 ## Connect With Me
 
-* GitHub: [github.com/yourusername](https://github.com/yourusername)
-* LinkedIn: [LinkedIn](https://www.linkedin.com/)
-* Email: [your-email@example.com](mailto:your-email@example.com)
-* Tiktok: [your-email@example.com](mailto:your-email@example.com)
+<!-- * GitHub: [github.com/yourusername](https://github.com/yourusername) -->
+* LinkedIn: [LinkedIn](https://www.linkedin.com/in/emmanuel-addo-b99825269/)
+* Email: [your-email@example.com](addoemmanuel141509@gmail.com)
+* Tiktok: [your-email@example.com](https://www.tiktok.com/@swemmacodes?_r=1&_t=ZS-99PDNV9lWbc)
 
 ---
 
