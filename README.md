@@ -69,9 +69,8 @@ Git • GitHub • Github Action • Docker • VS Code
 
 <!-- * GitHub: [github.com/yourusername](https://github.com/yourusername) -->
 * LinkedIn: [LinkedIn](https://www.linkedin.com/in/emmanuel-addo-b99825269/)
-* Email: [your-email@example.com](addoemmanuel141509@gmail.com)
-* Tiktok: [your-email@example.com](https://www.tiktok.com/@swemmacodes?_r=1&_t=ZS-99PDNV9lWbc)
-
+* Email: [addoemmanuel141509@gmail.com](mailto:addoemmanuel141509@gmail.com)
+* TikTok: [@swemmacodes](https://www.tiktok.com/@swemmacodes)
 ---
 
 ### Build. Learn. Ship. Repeat.
