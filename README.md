@@ -71,6 +71,7 @@ Git • GitHub • Github Action • Docker • VS Code
 * LinkedIn: [LinkedIn](https://www.linkedin.com/in/emmanuel-addo-b99825269/)
 * Email: [addoemmanuel141509@gmail.com](mailto:addoemmanuel141509@gmail.com)
 * TikTok: [@swemmacodes](https://www.tiktok.com/@swemmacodes)
+* Portfolio: [Emmanuel Addo](https://emmanueladdo.vercel.app/)
 ---
 
 ### Build. Learn. Ship. Repeat.
